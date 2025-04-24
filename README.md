@@ -47,11 +47,11 @@ A ideia é que você mostre ao mundo quem você é como desenvolvedor(a), com um
 - [https://portifolio-alexandre-duarte.vercel.app](https://portifolio-alexandre-duarte.vercel.app)
 - [https://portifolio-old-ten.vercel.app](https://portifolio-old-ten.vercel.app)
 - [https://www.luccaparadeda.com/](https://www.luccaparadeda.com/)
-- [https://bruno-simon.com/](https://bruno-simon.com/) — **DO CARALHO** 💥
+- [https://bruno-simon.com/](https://bruno-simon.com/) — **MUITO BOM** 💥
 - [https://www.rhuanbello.com/](https://www.rhuanbello.com/)
 - [https://kappke.dev/#masters](https://kappke.dev/#masters)
-- [https://dustinbrett.com/](https://dustinbrett.com/) — **DO CARALHO** 💥
-- [https://fahru.me/](https://fahru.me/) — **DO CARALHO** 💥
+- [https://dustinbrett.com/](https://dustinbrett.com/) — **MUITO BOM** 💥
+- [https://fahru.me/](https://fahru.me/) — **MUITO BOM** 💥
 - [https://travthebav.github.io/portfolio/](https://travthebav.github.io/portfolio/) — **BOM EXEMPLO INICIAL**
 - [https://anniebombanie.com/#contact](https://anniebombanie.com/#contact) — **BOM EXEMPLO INICIAL**
 - [https://jhey.dev/](https://jhey.dev/)
